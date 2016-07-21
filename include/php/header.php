@@ -1,6 +1,6 @@
 <?php
-include "include/php/db.php";
-include "include/php/lib.php";
+include "db.php";
+include "lib.php";
 ?>
 <!doctype html>
 <html>
